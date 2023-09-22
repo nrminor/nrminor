@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a biologist who develops [research software](https://us-rse.org/about/what-is-an-rse/) with an emphasis on reproducibility, performance, and ease-of-use. Before my current position in [David H. O'Connor's group at University of Wisconsin - Madison](https://dho.pathology.wisc.edu/), I worked in bird population genomics and speciation at University of Wyoming and University of Minnesota—Twin Cities. I've also worked in collection and database management at the Field Museum of Natural History in Chicago and the Bell Museum of Natural History in Saint Paul, Minnesota.
+I'm a biologist who develops [research software](https://us-rse.org/about/what-is-an-rse/) with an emphasis on reproducibility, ease-of-use, performance. Before my current position in [David H. O'Connor's group at University of Wisconsin - Madison](https://dho.pathology.wisc.edu/), I worked in bird population genomics and speciation at University of Wyoming and University of Minnesota—Twin Cities. I've also worked in collection and database management at the Field Museum of Natural History in Chicago and the Bell Museum of Natural History in Saint Paul, Minnesota.
 
 My research interests include:
  - population genomics
@@ -12,7 +12,7 @@ My research interests include:
  - data visualization
  - simulations (especially with [SLiM](https://messerlab.org/slim/)!)
 
-My entry to programming, like many biologists, was R. Since then, I've brought Python and [Julia](https://julialang.org/) into the mix as my go-to languages for scientific computing. I also use projects to continue learning [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/); I would speculate that both have a great deal to offer to the research community that isn't yet widely appreciated. To design pipelines and containerize software, I write a fair amount in Nextflow and Docker.
+My entry to programming, like many biologists, was R. Since then, I've brought Python and [Julia](https://julialang.org/) into the mix as my go-to languages for scientific computing. I also use projects to continue learning [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/); I would speculate that both have a great deal to offer to the research community that isn't yet widely appreciated. To design pipelines and containerize software, I also write a fair amount in Nextflow and Docker.
 
 Collaboration is one the best parts of science. If you also develop research software or work on some of the same topics, I'd love to connect, bounce off ideas, and make the most of open-source software development together.
 
