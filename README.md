@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a biologist who develops [research software](https://us-rse.org/about/what-is-an-rse/) with an emphasis on reproducibility, ease-of-use, performance. Before my current position in [David H. O'Connor's group at University of Wisconsin - Madison](https://dho.pathology.wisc.edu/), I worked in bird population genomics and speciation at University of Wyoming and University of Minnesota—Twin Cities. I've also worked in collection and database management at the Field Museum of Natural History in Chicago and the Bell Museum of Natural History in Saint Paul, Minnesota.
+I'm a biologist who develops [research software](https://us-rse.org/about/what-is-an-rse/) with an emphasis on reproducibility, ease-of-use, and performance. Before my current position in [David H. O'Connor's group at University of Wisconsin - Madison](https://dho.pathology.wisc.edu/), I worked in bird population genomics and speciation at University of Wyoming and University of Minnesota—Twin Cities. I've also worked in collection and database management at the Field Museum of Natural History in Chicago and the Bell Museum of Natural History in Saint Paul, Minnesota.
 
 My research interests include:
  - population genomics
