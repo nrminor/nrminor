@@ -12,7 +12,7 @@ My research interests include:
  - data visualization
  - simulations (especially with [SLiM](https://messerlab.org/slim/)!)
 
-My entry to programming, like many biologists, was R. Since then, I've brought to Python and [Julia](https://julialang.org/) into the mix as my go-to languages for scientific computing. I also use projects to continue learning [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/), my speculation is that both have a great deal to offer to the research community that isn't yet widely appreciated. To design pipelines and containerize software, I write a fair amount in Nextflow and Docker.
+My entry to programming, like many biologists, was R. Since then, I've brought Python and [Julia](https://julialang.org/) into the mix as my go-to languages for scientific computing. I also use projects to continue learning [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/), my speculation is that both have a great deal to offer to the research community that isn't yet widely appreciated. To design pipelines and containerize software, I write a fair amount in Nextflow and Docker.
 
 Collaboration is one the best parts of science. If you also develop research software or work on some of the same topics, I'd love to connect, bounce off ideas, and make the most of open-source software development together.
 
