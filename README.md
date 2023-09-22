@@ -12,9 +12,9 @@ My research interests include:
  - data visualization
  - simulations
 
-My entry to programming, like many biologists, was R. Since then, I've graduated to Python and Julia. I'm also in the process of using projects to learn Go and Rust. To design pipelines and containerize software, I write a fair amount in Nextflow and Docker as well.
+My entry to programming, like many biologists, was R. Since then, I've graduated to Python and Julia. I'm also in the process of using projects to learn Go and Rust. To design pipelines and containerize software, I write a fair amount in Nextflow and Docker.
 
-Collaboration is one the best parts of science. If you also develop research software or work on some of the same topics, I'd love to connect, bounce off ideas, and take advantage of open-source software development together.
+Collaboration is one the best parts of science. If you also develop research software or work on some of the same topics, I'd love to connect, bounce off ideas, and make the most of open-source software development together.
 
 <!--
 **nrminor/nrminor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
