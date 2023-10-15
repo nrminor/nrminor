@@ -17,7 +17,7 @@ My entry to programming, like many biologists, was R. Since then, I've brought P
 Collaboration is one the best parts of science. If you also develop research software or work on some of the same topics, I'd love to connect, bounce off ideas, and make the most of open-source software development together.
 
 <img src = "https://github.com/nrminor/nrminor-stats/blob/master/generated/overview.svg" width=400></img> <img src = "https://github.com/nrminor/nrminor-stats/blob/master/generated/languages.svg" width=400>
-<div align = "left">
+<div align = "center">
 
 <!--
 **nrminor/nrminor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
