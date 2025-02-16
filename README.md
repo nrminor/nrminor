@@ -10,7 +10,7 @@ My research interests include:
  - data structures and algorithms
  - programming language design
 
-My entry to programming, like many biologists, was R, and I still do stats and data visualization with R somewhat regularly. Nowadays, I do most of my scientific computing in Python, and for special applications, I'm a huge fan of [Rust](https://www.rust-lang.org/). I also use a number of domain-specific languages, most notably [Nextflow](https://www.nextflow.io/) to design pipelines, but also [Quarto](https://quarto.org/) markdown to render documents, websites, and presentations, and [Just](https://just.systems/) to manage projects. I also love trying out new languages, with [OCaml](https://ocaml.org/) and [Gleam](https://gleam.run/) being my latest fascinations.
+My entry to programming, like many biologists, was R, and I still do stats and data visualization with R somewhat regularly. Nowadays, I do most of my scientific computing in Python, and for special applications, I'm a huge fan of [Rust](https://www.rust-lang.org/). I also use a number of domain-specific languages, most notably [Nextflow](https://www.nextflow.io/) to design pipelines, but also [Quarto](https://quarto.org/) markdown to render documents, websites, and presentations, and [Just](https://just.systems/) to manage projects. I also love trying out new languages, with [OCaml](https://ocaml.org/), [Gleam](https://gleam.run/), and [Elixir](https://elixir-lang.org/) being my latest fascinations.
 
 Collaboration is one the best parts of science. If you also develop research software or work on some of the same topics, I'd love to connect, bounce off ideas, and make the most of open-source software development together.
 
